@@ -83,257 +83,257 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 | AV	 [Anguilla](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AV.htm)
 | AX	 [Akrotiri](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AX.htm)
 | AY	 [Antarctica](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AY.htm)
-| BA	 Bahrain
-| BB	 Barbados
-| BC	 Botswana
-| BD	 Bermuda
-| BE	 Belgium
-| BF	 Bahamas, The
-| BG	 Bangladesh
-| BH	 Belize
-| BK	 Bosnia and Herzegovina
-| BL	 Bolivia
-| BM	 Burma
-| BN	 Benin
-| BO	 Belarus
-| BP	 Solomon Islands
-| BQ	 Navassa Island
-| BR	 Brazil
-| BS	 French Southern and Antarctic Lands Bassas da India
-| BT	 Bhutan
-| BU	 Bulgaria
-| BV	 Bouvet Island
-| BX	 Brunei
-| BY	 Burundi
-| CA	 Canada
-| CB	 Cambodia
-| CD	 Chad
-| CE	 Sri Lanka
-| CF	 Congo (Brazzaville)
-| CG	 Congo (Kinshasa)
-| CH	 China
-| CI	 Chile
-| CJ	 Cayman Islands
-| CK	 Cocos (Keeling) Islands
-| CM	 Cameroon
-| CN   Comoros
-| CO	 Colombia
-| CQ	 Northern Mariana Islands
-| CR	 Coral Sea Islands
-| CS	 Costa Rica
-| CT	 Central African Republic
-| CU	 Cuba
-| CV	 Cape Verde
-| CW	 Cook Islands
-| CY	 Cyprus
-| DA	 Denmark
-| DJ	 Djibouti
-| DO	 Dominica
-| DQ	 Jarvis Island
-| DR	 Dominican Republic
-| DX	 Dhekelia
-| EC	 Ecuador
-| EG	 Egypt
-| EI	 Ireland
-| EK	 Equatorial Guinea
-| EN	 Estonia
-| ER	 Eritrea
-| ES	 El Salvador
-| ET	 Ethiopia
-| EU	French Southern and Antarctic Lands Europa Island
-| EZ	 Czechia
-| FG	 French Guiana
-| FI	 Finland
-| FJ	 Fiji
-| FK	 Falkland Islands (Islas Malvinas)
-| FM	 Micronesia, Federated States of
-| FO	 Faroe Islands
-| FP	 French Polynesia
-| FQ	 Baker Island
-| FR	 France
-| FS	 French Southern and Antarctic Lands
-| GA	 Gambia, The
-| GB	 Gabon
-| GG	 Georgia
-| GH	 Ghana
-| GI	 Gibraltar
-| GJ	 Grenada
-| GK	 Guernsey
-| GL	 Greenland
-| GM	 Germany
-| GO	 French Southern and Antarctic Lands Glorioso Islands
-| GP	 Guadeloupe
-| GQ	 Guam
-| GR	 Greece
-| GT	 Guatemala
-| GV	 Guinea
-| GY	 Guyana
-| GZ	 Gaza Strip
-| HA	 Haiti
-| HK	 Hong Kong
-| HM	 Heard Island and McDonald Islands
-| HO	 Honduras
-| HQ	 Howland Island
-| HR	 Croatia
-| HU	 Hungary
-| IC	 Iceland
-| ID	 Indonesia
-| IM	 Isle of Man
-| IN	 India
-| IO	 British Indian Ocean Territory
-| IP	 Clipperton Island
-| IR	 Iran
-| IS	 Israel
-| IT	 Italy
-| IV	 Côte d'Ivoire
-| IZ	 Iraq
-| JA	 Japan
-| JE	 Jersey
-| JM	 Jamaica
-| JN	 Jan Mayen
-| JO	 Jordan
-| JQ	 Johnston Atoll
-| JU	 French Southern and Antarctic Lands Juan de Nova Island
-| KE	 Kenya
-| KG	 Kyrgyzstan
-| KN	 Korea, North
-| KQ	 Kingman Reef
-| KR	 Kiribati
-| KS	 Korea, South
-| KT	 Christmas Island
-| KU	 Kuwait
-| KV	 Kosovo
-| KZ	 Kazakhstan
-| LA	 Laos
-| LE	 Lebanon
-| LG	 Latvia
-| LH	 Lithuania
-| LI	 Liberia
-| LO	 Slovakia
-| LQ	 Palmyra Atoll
-| LS	 Liechtenstein
-| LT	 Lesotho
-| LU	 Luxembourg
-| LY	 Libya
-| MA	 Madagascar
-| MB	 Martinique
-| MC	 Macau
-| MD	 Moldova
-| MF	 Mayotte
-| MG	 Mongolia
-| MH	 Montserrat
-| MI	 Malawi
-| MJ   Montenegro
-| MK	 North Macedonia
-| ML	 Mali
-| MN	 Monaco
-| MO	 Morocco
-| MP	 Mauritius
-| MQ	 Midway Islands
-| MR	 Mauritania
-| MT	 Malta
-| MU	 Oman
-| MV	 Maldives
-| MX	 Mexico
-| MY	 Malaysia
-| MZ	 Mozambique
-| NC	 New Caledonia
-| NE	 Niue
-| NF	 Norfolk Island
-| NG	 Niger
-| NH	 Vanuatu
-| NI	 Nigeria
-| NL	 Netherlands
-| NN	 Sint Maarten
-| NO	 Norway
-| NP	   Nepal
-| NR	 Nauru
-| NS	 Suriname
-| NT	 Netherlands Antilles
-| NU	 Nicaragua
-| NZ	 New Zealand
-| OD	 South Sudan
-| PA	 Paraguay
-| PC	 Pitcairn Islands
-| PE	 Peru
-| PF	 Paracel Islands
-| PG	 Spratly Islands
-| PJ	 Etorofu, Habomai, Kunashiri, and Shikotan Islands
-| PK	 Pakistan
-| PL	 Poland
-| PM	 Panama
-| PO	 Portugal
-| PP	 Papua New Guinea
-| PS	 Palau
-| PU	 Guinea-Bissau
-| QA	 Qatar
-| RE	 Réunion
-| RI	 Serbia
-| RM	 Marshall Islands
-| RN	 Saint Martin
-| RO	 Romania
-| RP	 Philippines
-| RQ	 Puerto Rico
-| RS	 Russia
-| RW	 Rwanda
-| SA	 Saudi Arabia
-| SB	 Saint Pierre and Miquelon
-| SC	 Saint Kitts and Nevis
-| SE	 Seychelles
-| SF	 South Africa
-| SG	 Senegal
-| SH	 Saint Helena, Ascension, and Tristan da Cunha
-| SI	 Slovenia
-| SL	 Sierra Leone
-| SM	 San Marino
-| SN	 Singapore
-| SO	 Somalia
-| SP	 Spain
-| ST	 Saint Lucia
-| SU	 Sudan
-| SV	 Svalbard
-| SW	 Sweden
-| SX	 South Georgia and South Sandwich Islands
-| SY	 Syria
-| SZ	 Switzerland
-| TB	 Saint Barthelemy
-| TD	 Trinidad and Tobago
-| TE	French Southern and Antarctic Lands Tromelin Island
-| TH	 Thailand
-| TI	 Tajikistan
-| TK	 Turks and Caicos Islands
-| TL	 Tokelau
-| TN	 Tonga
-| TO	 Togo
-| TP	 Sao Tome and Principe
-| TS	 Tunisia
-| TT	 Timor-Leste
-| TU	 Turkey
-| TV	 Tuvalu
-| TW	 Taiwan
-| TX	 Turkmenistan
-| TZ	 Tanzania
-| UC	 Curaçao
-| UG	 Uganda
-| UK	 United Kingdom
-| UP	 Ukraine
-| US	 United States
-| UV	 Burkina Faso
-| UY	 Uruguay
-| UZ	 Uzbekistan
-| VC	 Saint Vincent and the Grenadines
-| VE	 Venezuela
-| VI	 British Virgin Islands
-| VM	 Vietnam
-| VQ	 United States Virgin Islands
-| VT	 Vatican City
-| WA	 Namibia
-| WE	 West Bank
-| WF	 Wallis and Futuna
-| WI	 Western Sahara
-| WQ	 Wake Island
-| WS	 Samoa
-| WZ	 Eswatini
-| YM	 Yemen
-| ZA	 Zambia
-| ZI	 Zimbabwe
+| BA	 [Bahrain](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BA.htm)
+| BB	 [Barbados](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BB.htm)
+| BC	 [Botswana](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BC.htm)
+| BD	 [Bermuda](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BD.htm)
+| BE	 [Belgium](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BE.htm)
+| BF	 [Bahamas, The](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BF.htm)
+| BG	 [Bangladesh](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BG.htm)
+| BH	 [Belize](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BH.htm)
+| BK	 [Bosnia and Herzegovina](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BK.htm)
+| BL	 [Bolivia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BL.htm)
+| BM	 [Burma](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BM.htm)
+| BN	 [Benin](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BN.htm)
+| BO	 [Belarus](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BO.htm)
+| BP	 [Solomon Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BP.htm)
+| BQ	 [Navassa Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BQ.htm)
+| BR	 [Brazil](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BR.htm)
+| BS	 [French Southern and Antarctic Lands Bassas da India](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BS.htm)
+| BT	 [Bhutan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BT.htm)
+| BU	 [Bulgaria](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BU.htm)
+| BV	 [Bouvet Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BV.htm)
+| BX	 [Brunei](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BX.htm)
+| BY	 [Burundi](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_BY.htm)
+| CA	 [Canada](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CA.htm)
+| CB	 [Cambodia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CB.htm)
+| CD	 [Chad](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CD.htm)
+| CE	 [Sri Lanka](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CE.htm)
+| CF	 [Congo (Brazzaville)](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CF.htm)
+| CG	 [Congo (Kinshasa)](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CG.htm)
+| CH	 [China](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CH.htm)
+| CI	 [Chile](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CI.htm)
+| CJ	 [Cayman Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CJ.htm)
+| CK	 [Cocos (Keeling) Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CK.htm)
+| CM	 [Cameroon](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CM.htm)
+| CN   [Comoros](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CN.htm)
+| CO	 [Colombia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CO.htm)
+| CQ	 [Northern Mariana Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CQ.htm)
+| CR	 [Coral Sea Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CR.htm)
+| CS	 [Costa Rica](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CS.htm)
+| CT	 [Central African Republic](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CT.htm)
+| CU	 [Cuba](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CU.htm)
+| CV	 [Cape Verde](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CV.htm)
+| CW	 [Cook Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CW.htm)
+| CY	 [Cyprus](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_CY.htm)
+| DA	 [Denmark](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_DA.htm)
+| DJ	 [Djibouti](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_DJ.htm)
+| DO	 [Dominica](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_DO.htm)
+| DQ	 [Jarvis Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_DQ.htm)
+| DR	 [Dominican Republic](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_DR.htm)
+| DX	 [Dhekelia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_DX.htm)
+| EC	 [Ecuador](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_EC.htm)
+| EG	 [Egypt](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_EG.htm)
+| EI	 [Ireland](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_EI.htm)
+| EK	 [Equatorial Guinea](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_EK.htm)
+| EN	 [Estonia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_EN.htm)
+| ER	 [Eritrea](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ER.htm)
+| ES	 [El Salvador](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ES.htm)
+| ET	 [Ethiopia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ET.htm)
+| EU	 [French Southern and Antarctic Lands Europa Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_EU.htm)
+| EZ	 [Czechia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_EZ.htm)
+| FG	 [French Guiana](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FG.htm)
+| FI	 [Finland](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FI.htm)
+| FJ	 [Fiji](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FJ.htm)
+| FK	 [Falkland Islands (Islas Malvinas)](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FK.htm)
+| FM	 [Micronesia, Federated States of](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FM.htm)
+| FO	 [Faroe Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FO.htm)
+| FP	 [French Polynesia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FP.htm)
+| FQ	 [Baker Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FQ.htm)
+| FR	 [France](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FR.htm)
+| FS	 [French Southern and Antarctic Lands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_FS.htm)
+| GA	 [Gambia, The](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GAV.htm)
+| GB	 [Gabon](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GB](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GY.htm)
+| GG	 [Georgia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GG](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GZ.htm)
+| GH	 [Ghana](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GH](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_H.htm)
+| GI	 [Gibraltar](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GI.htm)
+| GJ	 [Grenada](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GJ.htm)
+| GK	 [Guernsey](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GK.htm)
+| GL	 [Greenland](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GL.htm)
+| GM	 [Germany](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GM.htm)
+| GO	 [French Southern and Antarctic Lands Glorioso Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GO.htm)
+| GP	 [Guadeloupe](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GP.htm)
+| GQ	 [Guam](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GQ.htm)
+| GR	 [Greece](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GR.htm)
+| GT	 [Guatemala](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GT.htm)
+| GV	 [Guinea](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GV.htm)
+| GY	 [Guyana](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GY.htm)
+| GZ	 [Gaza Strip](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_GZ.htm)
+| HA	 [Haiti](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_HA.htm)
+| HK	 [Hong Kong](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_HK.htm)
+| HM	 [Heard Island and McDonald Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_HM.htm)
+| HO	 [Honduras](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_HO.htm)
+| HQ	 [Howland Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_HQ.htm)
+| HR	 [Croatia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_HR.htm)
+| HU	 [Hungary](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_HU.htm)
+| IC	 [Iceland](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IC.htm)
+| ID	 [Indonesia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ID.htm)
+| IM	 [Isle of Man](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IM.htm)
+| IN	 [India](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IN.htm)
+| IO	 [British Indian Ocean Territory](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IO.htm)
+| IP	 [Clipperton Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IP.htm)
+| IR	 [Iran](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IR.htm)
+| IS	 [Israel](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IS.htm)
+| IT	 [Italy](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IT.htm)
+| IV	 [Côte d'Ivoire](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IV.htm)
+| IZ	 [Iraq](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_IZ.htm)
+| JA	 [Japan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_JA.htm)
+| JE	 [Jersey](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_JE.htm)
+| JM	 [Jamaica](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_JM.htm)
+| JN	 [Jan Mayen](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_JN.htm)
+| JO	 [Jordan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_JO.htm)
+| JQ	 [Johnston Atoll](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_JQ.htm)
+| JU	 [French Southern and Antarctic Lands Juan de Nova Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_JU.htm)
+| KE	 [Kenya](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KE.htm).htm)
+| KG	 [Kyrgyzstan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KG.htm)
+| KN	 [Korea, North](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KN.htm)
+| KQ	 [Kingman Reef](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KQ.htm)
+| KR	 [Kiribati](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KR.htm)
+| KS	 [Korea, South](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KS.htm)
+| KT	 [Christmas Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KT.htm)
+| KU	 [Kuwait](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KU.htm)
+| KV	 [Kosovo](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KV.htm)
+| KZ	 [Kazakhstan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_KZ.htm)
+| LA	 [Laos](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LA.htm)
+| LE	 [Lebanon](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LE.htm)
+| LG	 [Latvia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LG.htm)
+| LH	 [Lithuania](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LH.htm)
+| LI	 [Liberia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LI.htm)
+| LO	 [Slovakia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LO.htm)
+| LQ	 [Palmyra Atoll](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LQ.htm)
+| LS	 [Liechtenstein](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LS.htm)
+| LT	 [Lesotho](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TLT.htm)
+| LU	 [Luxembourg](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LU.htm)
+| LY	 [Libya](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_LY.htm)
+| MA	 [Madagascar](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MA.htm)
+| MB	 [Martinique](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MB.htm)
+| MC	 [Macau](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MC.htm)
+| MD	 [Moldova](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MD.htm)
+| MF	 [Mayotte](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MF.htm)
+| MG	 [Mongolia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MG.htm)
+| MH	 [Montserrat](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MH.htm)
+| MI	 [Malawi](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MI.htm)
+| MJ   [Montenegro](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MJ.htm)
+| MK	 [North Macedonia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MK.htm)
+| ML	 [Mali](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ML.htm)
+| MN	 [Monaco](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MN.htm)
+| MO	 [Morocco](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MO.htm)
+| MP	 [Mauritius](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MP.htm)
+| MQ	 [Midway Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MQ.htm)
+| MR	 [Mauritania](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MR.htm)
+| MT	 [Malta](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MT.htm)
+| MU	 [Oman](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MU.htm)
+| MV	 [Maldives](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MV.htm)
+| MX	 [Mexico](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MX.htm)
+| MY	 [Malaysia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MY.htm)
+| MZ	 [Mozambique](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_MZ.htm)
+| NC	 [New Caledonia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NC.htm)
+| NE	 [Niue](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NE.htm)
+| NF	 [Norfolk Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NF.htm)
+| NG	 [Niger](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NG.htm)
+| NH	 [Vanuatu](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NH.htm)
+| NI	 [Nigeria](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NI.htm)
+| NL	 [Netherlands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NL.htm)
+| NN	 [Sint Maarten](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NN.htm)
+| NO	 [Norway](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NO.htm)
+| NP	 [Nepal](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NP.htm)
+| NR	 [Nauru](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NR.htm)
+| NS	 [Suriname](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NS.htm)
+| NT	 [Netherlands Antilles](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NT.htm)
+| NU	 [Nicaragua](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NU.htm)
+| NZ	 [New Zealand](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_NZ.htm)
+| OD	 [South Sudan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_OD.htm)
+| PA	 [Paraguay](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PR.htm)
+| PC	 [Pitcairn Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PC.htm)
+| PE	 [Peru](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PE.htm)
+| PF	 [Paracel Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PF.htm)
+| PG	 [Spratly Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PG.htm)
+| PJ	 [Etorofu, Habomai, Kunashiri, and Shikotan Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PJ.htm)
+| PK	 [Pakistan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PK.htm)
+| PL	 [Poland](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PL.htm)
+| PM	 [Panama](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PM.htm)
+| PO	 [Portugal](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PO.htm)
+| PP	 [Papua New Guinea](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PP.htm)
+| PS	 [Palau](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PS.htm)
+| PU	 [Guinea-Bissau](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_PU.htm)
+| QA	 [Qatar](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_QA.htm)
+| RE	 [Réunion](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RE.htm)
+| RI	 [Serbia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RI.htm)
+| RM	 [Marshall Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RM.htm)
+| RN	 [Saint Martin](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RN.htm)
+| RO	 [Romania](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RO.htm)
+| RP	 [Philippines](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RP.htm)
+| RQ	 [Puerto Rico](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RQ.htm)
+| RS	 [Russia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RS.htm)
+| RW	 [Rwanda](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_RW.htm)
+| SA	 [Saudi Arabia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SA.htm)
+| SB	 [Saint Pierre and Miquelon](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SB.htm)
+| SC	 [Saint Kitts and Nevis](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SC.htm)
+| SE	 [Seychelles](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SE.htm)
+| SF	 [South Africa](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SF.htm)
+| SG	 [Senegal](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SG.htm)
+| SH	 [Saint Helena, Ascension, and Tristan da Cunha](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SH.htm)
+| SI	 [Slovenia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SI.htm)
+| SL	 [Sierra Leone](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SL.htm)
+| SM	 [San Marino](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SM.htm)
+| SN	 [Singapore](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SN.htm)
+| SO	 [Somalia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SO.htm)
+| SP	 [Spain](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SP.htm)
+| ST	 [Saint Lucia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ST.htm)
+| SU	 [Sudan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SU.htm)
+| SV	 [Svalbard](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SV.htm)
+| SW	 [Sweden](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SW.htm)
+| SX	 [South Georgia and South Sandwich Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SX.htm)
+| SY	 [Syria](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SY.htm)
+| SZ	 [Switzerland](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_SZ.htm)
+| TB	 [Saint Barthelemy](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TB.htm)
+| TD	 [Trinidad and Tobago](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TD.htm)
+| TE	 [French Southern and Antarctic Lands Tromelin Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TE.htm)
+| TH	 [Thailand](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TH.htm)
+| TI	 [Tajikistan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TI.htm)
+| TK	 [Turks and Caicos Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TK.htm)
+| TL	 [Tokelau](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TL.htm)
+| TN	 [Tonga](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TN.htm)
+| TO	 [Togo](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TO.htm)
+| TP	 [Sao Tome and Principe](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TP.htm)
+| TS	 [Tunisia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TS.htm)
+| TT	 [Timor-Leste](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TT.htm)
+| TU	 [Turkey](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TU.htm)
+| TV	 [Tuvalu](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TV.htm)
+| TW	 [Taiwan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TW.htm)
+| TX	 [Turkmenistan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TX.htm)
+| TZ	 [Tanzania](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_TZ.htm)
+| UC	 [Curaçao](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_UC.htm)
+| UG	 [Uganda](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_UG.htm)
+| UK	 [United Kingdom](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_UK.htm)
+| UP	 [Ukraine](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_UP.htm)
+| US	 [United States](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_US.htm)
+| UV	 [Burkina Faso](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_UV.htm)
+| UY	 [Uruguay](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_UY.htm)
+| UZ	 [Uzbekistan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_UZ.htm)
+| VC	 [Saint Vincent and the Grenadines](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_VC.htm)
+| VE	 [Venezuela](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_VE.htm)
+| VI	 [British Virgin Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_VI.htm)
+| VM	 [Vietnam](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_VM.htm)
+| VQ	 [United States Virgin Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_VQ.htm)
+| VT	 [Vatican City](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_VT.htm)
+| WA	 [Namibia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_WA.htm)
+| WE	 [West Bank](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_WE.htm)
+| WF	 [Wallis and Futuna](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_WF.htm)
+| WI	 [Western Sahara](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_WI.htm)
+| WQ	 [Wake Island](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_WQ.htm)
+| WS	 [Samoa](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_WS.htm)
+| WZ	 [Eswatini](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_WZ.htm)
+| YM	 [Yemen](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_YM.htm)
+| ZA	 [Zambia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ZA.htm)
+| ZI	 [Zimbabwe](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_ZI.htm)
