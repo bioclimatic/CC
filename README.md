@@ -18,7 +18,7 @@ Energy and Buildings Volume 266, 1 July 2022, 112088
 Corresponding author <e.peterson@leeds.ac.uk>
 
 #### Graphical Abstract
-![Graphical abstract](Graphical_Abstract.jpg "Graphical abstract")
+![Graphical abstract](https://bioclimatic.github.io/predilection/Graphical_Abstract.jpg "Graphical abstract")
 
 | code | Description | code | Description |
 | ---- | ----------- | ---- | ----------- |
