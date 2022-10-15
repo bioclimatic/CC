@@ -63,19 +63,12 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 | WsD | White-flag or worse outdoor stress days (average per annum) based on daily maximum wetbulb globe temperature in shade ≥ 25.6°C |
 | DXD | Average days per annum that direct expansion air-conditioning is desirable based upon mean daily outdoor conditions |
 
-##### link
-
-check this link >[AA right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AA.htm)<
-                >[AC right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AC.htm)<
-                >[AE right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AE.htm)<
-                >[AF right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AF.htm)<
-
 ## FIPS country codes
 
-| AA	 Aruba
-| AC	 Antigua and Barbuda
-| AE	 United Arab Emirates
-| AF	 Afghanistan
+| AA	 >[Aruba](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AA.htm)<
+| AC	 >[Antigua and Barbuda](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AC.htm)<
+| AE	 >[United Arab Emirates](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AE.htm)<
+| AF	 >[Afghanistan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AF.htm)<
 | AG	 Algeria
 | AJ	 Azerbaijan
 | AL	 Albania
@@ -106,7 +99,7 @@ check this link >[AA right here](https://bioclimatic.github.io/CC/CCs/RESULTSout
 | BP	 Solomon Islands
 | BQ	 Navassa Island
 | BR	 Brazil
-| BS	French Southern and Antarctic Lands Bassas da India
+| BS	 French Southern and Antarctic Lands Bassas da India
 | BT	 Bhutan
 | BU	 Bulgaria
 | BV	 Bouvet Island
@@ -123,13 +116,13 @@ check this link >[AA right here](https://bioclimatic.github.io/CC/CCs/RESULTSout
 | CJ	 Cayman Islands
 | CK	 Cocos (Keeling) Islands
 | CM	 Cameroon
-| CN|| | |  	 Comoros
-| C|||   O	 Colombia
-| | ||  CQ	 Northern Mariana Islands
-| | | CR	 Coral Sea Islands
-| | | CS	 Costa Rica
-| | | CT	 Central African Republic
-| | CU	 Cuba
+| CN   Comoros
+| CO	 Colombia
+| CQ	 Northern Mariana Islands
+| CR	 Coral Sea Islands
+| CS	 Costa Rica
+| CT	 Central African Republic
+| CU	 Cuba
 | CV	 Cape Verde
 | CW	 Cook Islands
 | CY	 Cyprus
@@ -168,7 +161,7 @@ check this link >[AA right here](https://bioclimatic.github.io/CC/CCs/RESULTSout
 | GK	 Guernsey
 | GL	 Greenland
 | GM	 Germany
-| GO	French Southern and Antarctic Lands Glorioso Islands
+| GO	 French Southern and Antarctic Lands Glorioso Islands
 | GP	 Guadeloupe
 | GQ	 Guam
 | GR	 Greece
@@ -200,7 +193,7 @@ check this link >[AA right here](https://bioclimatic.github.io/CC/CCs/RESULTSout
 | JN	 Jan Mayen
 | JO	 Jordan
 | JQ	 Johnston Atoll
-| JU	French Southern and Antarctic Lands Juan de Nova Island
+| JU	 French Southern and Antarctic Lands Juan de Nova Island
 | KE	 Kenya
 | KG	 Kyrgyzstan
 | KN	 Korea, North
@@ -268,12 +261,12 @@ check this link >[AA right here](https://bioclimatic.github.io/CC/CCs/RESULTSout
 | PJ	 Etorofu, Habomai, Kunashiri, and Shikotan Islands
 | PK	 Pakistan
 | PL	 Poland
-| | PM	 Panama
-| | PO	 Portugal
-| | PP	 Papua New Guinea
-| | PS	 Palau
-| | PU	 Guinea-Bissau
-| | QA	 Qatar
+| PM	 Panama
+| PO	 Portugal
+| PP	 Papua New Guinea
+| PS	 Palau
+| PU	 Guinea-Bissau
+| QA	 Qatar
 | RE	 Réunion
 | RI	 Serbia
 | RM	 Marshall Islands
