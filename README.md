@@ -65,7 +65,7 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 
 ##### link
 
-check this link >[AA right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AA.htm)<
-                >[AC right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AC.htm)<
-                >[AE right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AE.htm)<
-                >[AF right here](https://bioclimatic.github.io/predilection/CCs/RESULTSout_1987-2020_psych_AF.htm)<
+check this link >[AA right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AA.htm)<
+                >[AC right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AC.htm)<
+                >[AE right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AE.htm)<
+                >[AF right here](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AF.htm)<
