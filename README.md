@@ -65,24 +65,24 @@ Air-conditioning relies on electricity that isn’t ubiquitous while policies en
 
 ## FIPS country codes
 
-| AA	 >[Aruba](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AA.htm)<
-| AC	 >[Antigua and Barbuda](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AC.htm)<
-| AE	 >[United Arab Emirates](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AE.htm)<
-| AF	 >[Afghanistan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AF.htm)<
-| AG	 Algeria
-| AJ	 Azerbaijan
-| AL	 Albania
-| AM	 Armenia
-| AN	 Andorra
-| AO	 Angola
-| AQ	 American Samoa
-| AR	 Argentina
-| AS	 Australia
-| AT	 Ashmore and Cartier Islands
-| AU	 Austria
-| AV	 Anguilla
-| AX	 Akrotiri
-| AY	 Antarctica
+| AA	 [Aruba](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AA.htm)
+| AC	 [Antigua and Barbuda](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AC.htm)
+| AE	 [United Arab Emirates](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AE.htm)
+| AF	 [Afghanistan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AF.htm)
+| AG	 [Algeria](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AG.htm)
+| AJ	 [Azerbaijan](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AJ.htm)
+| AL	 [Albania](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AL.htm)
+| AM	 [Armenia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AM.htm)
+| AN	 [Andorra](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AN.htm)
+| AO	 [Angola](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AO.htm)
+| AQ	 [American Samoa](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AQ.htm)
+| AR	 [Argentina](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AR.htm)
+| AS	 [Australia](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AS.htm)
+| AT	 [Ashmore and Cartier Islands](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AT.htm)
+| AU	 [Austria](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AU.htm)
+| AV	 [Anguilla](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AV.htm)
+| AX	 [Akrotiri](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AX.htm)
+| AY	 [Antarctica](https://bioclimatic.github.io/CC/CCs/RESULTSout_1987-2020_psych_AY.htm)
 | BA	 Bahrain
 | BB	 Barbados
 | BC	 Botswana
